@@ -1078,7 +1078,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #000000;
-  background-color: #F5F5DC;
+  background-color: #FFFFFF;
 }
 input,
 button,
@@ -1123,8 +1123,8 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #A9A9A9;
-  border: 1px solid #DC143C;
+  background-color: #808080;
+  border: 1px solid #B22222;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
